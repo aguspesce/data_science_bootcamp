@@ -18,3 +18,7 @@ And then activate the environment:
 ```
 conda activate tapioca
 ```
+
+## License
+
+It is distributed under the BSD 3-clause License.
